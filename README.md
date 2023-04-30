@@ -3,8 +3,11 @@
 This is a repository for a FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
 Demo Account
+
 Email: test@gmail.com
+
 Password: 123456
+
 [Example Demo](https://netflix-clone-rouge-gamma.vercel.app/)
 
 Features:
