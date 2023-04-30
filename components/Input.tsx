@@ -38,7 +38,7 @@ const Input: React.FC<InputProps> = ({ id, onChange, value, label, type }) => {
         htmlFor={id} 
         className="
         absolute 
-        text-md
+        text-sm
       text-zinc-400
         duration-150 
         transform 
@@ -52,6 +52,7 @@ const Input: React.FC<InputProps> = ({ id, onChange, value, label, type }) => {
         peer-placeholder-shown:translate-y-0 
         peer-focus:scale-75
         peer-focus:-translate-y-3
+        md:text-md
       ">{label}</label>
     </div>
   )
